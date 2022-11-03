@@ -158,6 +158,11 @@ footer{
     width:25px;
 }
 
+.quienesSomos{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
 .emprendedurismo{
     background-color: lightgrey;
 }
@@ -280,4 +285,18 @@ footer{
     background-color: darkgrey ;
     border-color: gray;
     border-radius: 0;
+}
+
+.infoUbicacion{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-left: 10%;
+}
+
+.infoUbicacion img{
+    width:4%;
+}
+
+.dondeEstamostitulo{
+    padding-top: 10%;
 }
